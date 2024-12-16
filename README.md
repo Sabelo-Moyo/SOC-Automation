@@ -1,4 +1,5 @@
-# PROJECTNAME
+# SOC Automation
+
 
 ## Objective
 [Brief Objective - Remove this afterwards]
